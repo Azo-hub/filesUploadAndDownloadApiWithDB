@@ -8,23 +8,13 @@ The following technologies and solutions were present in this project as highlig
 - Java 17;
 * Spring Boot version 3.1.0;
 + Spring Security 6;
-- Spring Data JPA;
 + RestApi;
-* Hibernate;
-- Postgres;
-+ Cloudinary;
-- Gmail Smtp;
-* Jwt Token;
-+ Docker;
-
++ 
 ### Some modules and services
-- Jwt Authentication.
-+ Role-based Authorization.
-
-
+- File Resource.
 
 ## License :memo:
-[`Apache License 2.0`](https://github.com/Azo-hub/homeBookingWebAppApi/blob/master/LICENSE)
+[`Apache License 2.0`](https://github.com/Azo-hub/filesUploadAndDownloadApi/blob/master/LICENSE)
 
 
 
