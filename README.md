@@ -7,7 +7,6 @@ This project was built with Spring Boot as a way of learning and testing some Sp
 The following technologies and solutions were present in this project as highlighted below:
 - Java 17;
 * Spring Boot version 3.1.0;
-+ Spring Security 6;
 + RestApi;
 
 ### Some modules and services
