@@ -9,9 +9,9 @@ The following technologies and solutions were present in this project as highlig
 * Spring Boot version 3.1.0;
 + Spring Security 6;
 + RestApi;
-+ 
+
 ### Some modules and services
-- File Resource.
+  File Resource.
 
 ## License :memo:
 [`Apache License 2.0`](https://github.com/Azo-hub/filesUploadAndDownloadApi/blob/master/LICENSE)
