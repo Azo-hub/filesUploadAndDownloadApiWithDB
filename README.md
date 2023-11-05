@@ -12,7 +12,9 @@ The following technologies and solutions were present in this project as highlig
 * SpringData Jpa;
 
 ### Some modules and services
-  File Resource.
+- File Resource;
+* File Service;
++ File Repository;
 
 ## License :memo:
 [`Apache License 2.0`](https://github.com/Azo-hub/filesUploadAndDownloadApiWithDB/blob/master/LICENSE)
